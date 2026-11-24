@@ -48,3 +48,7 @@ START -> Read employee -> Calculate gross pay -> Calculate progressive tax
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://employee-payroll-analysis-sdtw4czfwjcksrtzypxbk5.streamlit.app/
